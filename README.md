@@ -1,6 +1,6 @@
 <h3 align='center'><b> Lógica aplicada - Estrutura de repetição, arrays, métodos e objetos </b></h3>
 
-##### **Semana 4 – Resolução de Problemas/Lógica aplicada e JavaScript (sintaxe básica)**
+<h4 align='center'> **Semana 4 – Resolução de Problemas/Lógica aplicada e JavaScript (sintaxe básica)** </h4>
 <p align=center> ----------------------------------------------------------------------</P>
 
 <h2> <font color: #800080> <i> O que aprendi? </i></font></h2> 
@@ -8,8 +8,7 @@
 1. [Estrutura de repetição](#loops)
 2. [Objetos](#objetos)
 3. [Arrays](#arrays)
-4. [Métodos de iteração](#métodos-de-iteração)
-5. [Ferramentas da semana: readline e nodemon](#readline-e-nodemon)  
+ 
 <br>
 
 ---
@@ -72,9 +71,9 @@ console.log('já deu')
 
 ```
 
-**Comandos especiais**
-    1. break: podemos encerrar uma instrução
-    2. continue: podemos pular uma instrução
+**Comandos especiais** <br>
+    1. break: podemos encerrar uma instrução <br>
+    2. continue: podemos pular uma instrução <br>
 
 ```javascript
 console.log(`contagem regressiva do 10 e parando no 3`)
@@ -108,7 +107,7 @@ while(x < 10) {
 
 ## Objetos
 
-Objeto funciona como um dado que contém uma coleção de <i>propriedades</i> organizadas em pares de **chave**:*valor*, sendo o *valor* qualquer tipo de dado (número, texto, função ou até mesmo outro objeto)
+Objeto funciona como um dado que contém uma coleção de <i>propriedades</i> organizadas em pares de **chave** : *valor*, sendo o *valor* qualquer tipo de dado (número, texto, função ou até mesmo outro objeto)
 
 
 
